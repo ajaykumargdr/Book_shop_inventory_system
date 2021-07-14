@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626251388 source:d:\project hospital ifos\bustranspot\book_shop_inventory_system\main.cpp
+	<iostream>
+	<fstream>
+

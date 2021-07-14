@@ -1,0 +1,23 @@
+Author Name : Karthic
+Title Name : sky wick
+Bublisher Name : jai
+Price : 120
+Stack Position : 50A
+
+Author Name : Osma
+Title Name : I and the World
+Bublisher Name : Vikram
+Price : 399
+Stack Position : 12F
+
+Author Name : Surya
+Title Name : kaapan
+Bublisher Name : mohanlal
+Price : 799
+Stack Position : 52R
+
+Author Name : Ajith
+Title Name : vethalam
+Bublisher Name : motta Rajendar
+Price : 999
+Stack Position : 11E
